@@ -5,7 +5,7 @@ function agregarAmigo() {
     let inputValue = document.getElementById('amigo').value.trim().toUpperCase();
     const invalidNames = /[^a-zA-Z ]/g.test(inputValue);
     if (inputValue === '') {
-        alert('Por favor, inserte un nombre');
+        alert('Por favor, ingrese un nombre');
     } else if (inputValue.length < 3) {
         alert('Por favor ingrese un nombre con 3 caracteres mínimo')
     } else if (invalidNames) { 
