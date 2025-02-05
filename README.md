@@ -5,7 +5,7 @@ Oracle-Next-Education-Challenge
 
 <h3>Funcionalidades</h3>
 <ul>
-  <li>Añadir amigos: Los usuarios pueden agregar nombres al sistema, asegurándose de que sean válidos (sin tildes y con al menos 3 caracteres).</li>
+  <li>Añadir amigos: Los usuarios pueden agregar nombres, asegurándose de que sean válidos (sin tildes y con al menos 3 caracteres).</li>
   <li>Sortear: Una vez ingresados los amigos, puedes sortear un nombre aleatorio y lo mostrará como el "Amigo Secreto"</li>
 </ul>
 
