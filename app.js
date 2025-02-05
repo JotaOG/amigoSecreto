@@ -14,7 +14,6 @@ function agregarAmigo() {
         alert('Este nombre ya existe, ingrese uno diferente');
     } else {
         amigos.push(inputValue);
-        console.log('amigos: ', amigos);
         listAmigos();
     }
     document.getElementById('amigo').value = '';
